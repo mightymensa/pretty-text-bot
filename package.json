@@ -1,0 +1,27 @@
+{
+  "name": "pretty-text-bot",
+  "version": "1.0.0",
+  "description": "telegram bot to beautify text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mightymensa/pretty-text-bot.git"
+  },
+  "author": "Mighty M. Mensa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mightymensa/pretty-text-bot/issues"
+  },
+  "homepage": "https://github.com/mightymensa/pretty-text-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-telegram-bot-api": "^0.57.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.35",
+    "@types/node-telegram-bot-api": "^0.57.1"
+  }
+}
